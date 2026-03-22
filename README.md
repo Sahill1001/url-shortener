@@ -812,6 +812,15 @@ For questions or issues, please open an issue on the repository.
 
 ---
 
+## Author
+
+**Sahilkumar Prasad**
+- GitHub: [github.com/sahill1001](https://github.com/sahill1001)
+- LinkedIn: [linkedin.com/in/sahilkumar-prasad-74abba272](https://linkedin.com/in/sahilkumar-prasad-74abba272)
+- Email: prasadsahil06@gmail.com
+
+---
+
 **Last Updated:** March 2026
 **Version:** 1.0.0
 **Status:** Production-Ready
